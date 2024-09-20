@@ -1,0 +1,2 @@
+ENCRYPTION_KEY=40 06 f0 c2 01 ca 81 68 fb 91 e9 29 d6 f8 45 ff a1 ef b5 1f 8c ce b3 7e 41 72 ef d3 53 fd a3 42
+IV=ba 19 06 8b 76 2d 08 e4 39 3c 94 e5 c6 96 0b 70
