@@ -2,3 +2,4 @@ pycryptodome
 requests
 selenium
 pypiwin32
+pygame
