@@ -1,0 +1,92 @@
+[
+    {
+        "domain": ".zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "FCNEC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "%5B%5B%22AKsRol9lbeFs2kC724GSr9DCSpa-MI9uEQKjQtscW7Hf9_sKJsqw2NzwX0bDUJASVgC6LcbKChqGgCjyQNgZQKT4TRQ9eGYi8Toy9M9zhTGIuVbX9QEG5XI4KnAHqFBvXPcS4AsWcSj-VmJwVUFPv7kIozE2vyiQ4g%3D%3D%22%5D%5D",
+        "expirationDate": 1758449431
+    },
+    {
+        "domain": "zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "user_agent",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F129.0.0.0%20Safari%2F537.36",
+        "expirationDate": 1729505421
+    },
+    {
+        "domain": ".zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__gpi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "UID=00000ef6e41547fe:T=1726913422:RT=1726913422:S=ALNI_MZ69jT_lhX6iee6HA-p2zQwdG6U4w",
+        "expirationDate": 1760609422
+    },
+    {
+        "domain": "zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "window_size",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1536x695",
+        "expirationDate": 1729505430
+    },
+    {
+        "domain": ".zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__eoi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ID=30b73fea94ece517:T=1726913422:RT=1726913422:S=AA-AfjaUEZysLYyGvkZ9bWDxWA09",
+        "expirationDate": 1742465422
+    },
+    {
+        "domain": ".zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__gads",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ID=047b870859d47cff:T=1726913422:RT=1726913422:S=ALNI_MZANXFG5PLRX7Hx3Kmf2wCjCRaDxw",
+        "expirationDate": 1760609422
+    },
+    {
+        "domain": "zefoy.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "ah3u8bep8tqi63nj56751hf5e4"
+    }
+]
