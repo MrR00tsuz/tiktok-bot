@@ -20,7 +20,7 @@ driver.get("https://zefoy.com/")
 
 driver.delete_all_cookies()
 
-cookies_path = os.path.join(os.getcwd(),'cookies.json')
+cookies_path = os.path.join(os.getcwd(), "config", "data", "cookies.json")
 
 with open(cookies_path, "r") as cookies_file:
     cookies = json.load(cookies_file)
@@ -41,7 +41,7 @@ time.sleep(5)
 views_button_xpath = "/html/body/div[6]/div/div[2]/div/div/div[6]/div/button"
 driver.execute_script("arguments[0].click();", driver.find_element(By.XPATH, views_button_xpath))
 
-url_path = os.path.join(os.getcwd(),'url.json')
+url_path = os.path.join(os.getcwd(), "config", "data", "url.json")
 with open(url_path, "r") as url_file:
     url_data = json.load(url_file)
     video_url = url_data["url"]
