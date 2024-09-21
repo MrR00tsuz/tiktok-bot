@@ -9,5 +9,4 @@ TikTok Zefoy.me Bot captcha bypass
     
     ```
 
-edit cookies.json
 
