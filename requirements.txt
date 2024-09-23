@@ -9,7 +9,7 @@ loguru
 lxml
 IPy
 gevent
-ndjson>
+ndjson
 pwn~=1.0
 pwntools>=4.3.1
 pyOpenSSL>=19.1.0
